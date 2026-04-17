@@ -35,7 +35,7 @@
         "name": "DMSH", 
         "desc": "Данмаку/BulletHell игра на юнити. Разрабатывалась по началу одним мной, но позже пришли люди в разработку. К сожалению разработку пришлось прекратить. Но сама игра рабочая.", 
         "imgs": [ 
-            { "img": "/assets/img/dmsh-unity/1.png", "hint": "" }
+            { "img": "assets/img/dmsh-unity/1.png", "hint": "" }
         ],
         "link": "https://github.com/Aty-0/DMSH"
     },
